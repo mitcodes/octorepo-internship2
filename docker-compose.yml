@@ -1,9 +1,0 @@
-version: '3.8'  # Specify the version of the Compose file format
-
-services:
-  my-web-app:
-    # Build the image from the current directory's Dockerfile
-    build: .
-    # Expose container port 80 to host port 8080 (optional)
-    ports:
-      - "8080:80"
