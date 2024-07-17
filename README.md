@@ -32,7 +32,7 @@ Developed the layout for the home page, incorporating client feedback to ensure 
 Day 5: Connecting to a Backend API
 Started integrating the frontend with a mock backend API to simulate data fetching. This was essential for testing the functionality of the website.
 
-**2️⃣ Week 2**
+## 2️⃣ Week 2
 **4th June 2024**
 **Backend Development with Node.js**
 The second week focused on backend development. I set up a Node.js server and created RESTful APIs to handle data operations. This involved creating endpoints for various CRUD operations and ensuring secure data handling practices.
@@ -55,7 +55,7 @@ Implemented authentication and authorization using JWT (JSON Web Tokens). This e
 Connected the React frontend with the Node.js backend. This involved making API calls from the frontend and displaying the data dynamically.
 
 
-**3️⃣ Week 3**
+## 3️⃣ Week 3
 **11th June 2024**
 **Advanced Frontend Development**
 The third week was dedicated to enhancing the frontend with advanced features. This included state management using Redux, improving UI/UX, and ensuring the website was fully responsive.
@@ -77,7 +77,7 @@ Ensured that the website was fully responsive and worked well on different devic
 **Day 5: User Testing and Feedback**
 Conducted user testing to gather feedback on the website's functionality and design. Made necessary adjustments based on the feedback received.
 
-**4️⃣ Week 4**
+## 4️⃣ Week 4
 **18th June 2024**
 **Deployment on AWS**
 The final week focused on deploying the website on AWS. This included setting up various AWS services, deploying the backend on EC2, and hosting the frontend on S3 and CloudFront.
