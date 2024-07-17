@@ -55,7 +55,52 @@ Implemented authentication and authorization using JWT (JSON Web Tokens). This e
 Connected the React frontend with the Node.js backend. This involved making API calls from the frontend and displaying the data dynamically.
 
 
+**3️⃣ Week 3**
+**11th June 2024**
+**Advanced Frontend Development**
+The third week was dedicated to enhancing the frontend with advanced features. This included state management using Redux, improving UI/UX, and ensuring the website was fully responsive.
 
+Day-by-Day Progress:
+
+**Day 1: Setting Up Redux**
+Installed Redux and set up the global state management. This helped in managing the application state more efficiently.
+
+**Day 2: Implementing Advanced UI Components**
+Developed advanced UI components such as modals, forms, and data tables. Ensured these components were reusable and met the design specifications.
+
+**Day 3: Enhancing User Experience**
+Improved the user experience by adding animations and transitions. This made the website more interactive and engaging.
+
+**Day 4: Making the Website Responsive**
+Ensured that the website was fully responsive and worked well on different devices and screen sizes. This involved using CSS media queries and responsive design principles.
+
+**Day 5: User Testing and Feedback**
+Conducted user testing to gather feedback on the website's functionality and design. Made necessary adjustments based on the feedback received.
+
+**4️⃣ Week 4**
+**18th June 2024**
+**Deployment on AWS**
+The final week focused on deploying the website on AWS. This included setting up various AWS services, deploying the backend on EC2, and hosting the frontend on S3 and CloudFront.
+
+Day-by-Day Progress:
+
+**Day 1: Setting Up AWS Services**
+Configured AWS services such as EC2 for backend deployment and S3 for frontend hosting. Created the necessary IAM roles and policies for secure access.
+
+**Day 2: Deploying the Backend on EC2**
+Deployed the Node.js backend on an EC2 instance. Ensured that the server was properly configured and secured.
+
+**Day 3: Hosting the Frontend on S3 and CloudFront**
+Uploaded the React frontend to an S3 bucket and set up CloudFront for content delivery. This ensured that the website was fast and accessible from anywhere.
+
+**Day 4: Configuring Security and Monitoring**
+Implemented security best practices such as enabling HTTPS, setting up security groups, and configuring CloudWatch for monitoring.
+
+**Day 5: Final Testing and Launch**
+Conducted final testing to ensure everything was working as expected. Launched the website and monitored its performance.
+
+**Conclusion**
+This internship was an enriching experience that provided me with valuable insights and practical knowledge in web development and deployment. From understanding client requirements and planning the project to developing with React.js, Node.js, and deploying on AWS, every step was a learning opportunity. This journey has equipped me with the skills and confidence to tackle future projects and continue my growth as a developer.
 Connect with Me
 LinkedIn: [https://www.linkedin.com/in/mit-p-a9a858205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 Email: [mitparmarcse@gmail.com]
