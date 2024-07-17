@@ -103,9 +103,9 @@ Conducted final testing to ensure everything was working as expected. Launched t
 This internship was an enriching experience that provided me with valuable insights and practical knowledge in web development and deployment. From understanding client requirements and planning the project to developing with React.js, Node.js, and deploying on AWS, every step was a learning opportunity. This journey has equipped me with the skills and confidence to tackle future projects and continue my growth as a developer.
 **Connect with on:**
 
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mit-p-a9a858205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+**LinkedIn:** [Click Here](https://www.linkedin.com/in/mit-p-a9a858205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-**Email:** [Email](mailto:mitparmarcse@gmail.com)
+**Email:** [Click Here](mailto:mitparmarcse@gmail.com)
 
 
 Thans for visiting!! Feel free to reach out if you have any questions or feedback. ✨
